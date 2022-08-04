@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CartaoVisitaDio</string>
+    <string name="label_cartao_visita">Cartão de visita</string>
 </resources>
